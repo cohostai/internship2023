@@ -1,3 +1,4 @@
+// Don't forget to add your API key to the key variable
 const key = ""
 
 let table = base.getTable("Table 1");
